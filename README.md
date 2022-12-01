@@ -1,6 +1,6 @@
-# AoC-template
+# AoC 2022
 
-This is a template repository to use with advent of code
+This is my solutions for AoC 2022
 
 ## Initialize:
 
